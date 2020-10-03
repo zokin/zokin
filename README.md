@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Lib-XAML-informational?style=flat&logo=xaml&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
