@@ -5,10 +5,10 @@
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=plastic-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Nikolaos_Zioulis)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-7898-9344)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
+
 # I'm a Computer Vision and Machine Learning Engineer
 I am currently associated with the [Visual Computing Lab](https://github.com/VCL3D) at CERTH-ITI.
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
 
 ## My toolset:
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
