@@ -1,5 +1,5 @@
 # Hi ! I'm Nick :)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)[![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)[![Orcid Badge](https://img.shields.io/badge/-0000.0002.7898.9344-c14438?style=plastic-square&logo=orcid&logoColor=white&color=brightgreen)](https://orcid.org/0000-0002-7898-9344)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)[![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)[![Orcid Badge](https://img.shields.io/badge/-0000.0002.7898.9344-c14438?style=plastic-square&logo=orcid&logoColor=white&color=#A6CE39)](https://orcid.org/0000-0002-7898-9344)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
 
