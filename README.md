@@ -6,13 +6,13 @@
 
 Some projects I've been working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=VolumetricCapture)](https://vcl3d.github.io/VolumetricCapture/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexd314&repo=nevergrad)](https://alexd314.github.io/nevergrad/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=StructureNet)](https://vcl3d.github.io/StructureNet/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=DeepPanoramaLighting)](https://vcl3d.github.io/DeepPanoramaLighting/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=SphericalViewSynthesis)](https://vcl3d.github.io/SphericalViewSynthesis/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=3D60)](https://vcl3d.github.io/3D60/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=UAVA)](https://vcl3d.github.io/UAVA/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=VolumetricCapture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/VolumetricCapture/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexd314&repo=nevergrad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://alexd314.github.io/nevergrad/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=StructureNet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/StructureNet/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=DeepPanoramaLighting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/DeepPanoramaLighting/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=SphericalViewSynthesis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/SphericalViewSynthesis/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=3D60&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/3D60/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=UAVA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/UAVA/)
 
 
 
