@@ -1,5 +1,5 @@
 # Hi ! I'm Nick :)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)[![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)[![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)[![Orcid Badge](https://img.shields.io/badge/-0000.0002.7898.9344-c14438?style=plastic-square&logo=orcid&logoColor=white&color=brightgreen)](https://orcid.org/0000-0002-7898-9344)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
 
@@ -12,6 +12,12 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tex-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Lib-ReactiveX-informational?style=flat&logo=reactivex&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Cuda-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Boost-informational?style=flat&logo=boost&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
