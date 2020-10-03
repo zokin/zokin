@@ -1,10 +1,11 @@
-# Hi ! I'm Nick :) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
+### Hello, I'm Nick ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com&color=D14836)](mailto:nzioulis@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://www.researchgate.net/profile/Nikolaos_Zioulis)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=plastic-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/nikolaos-zioulis)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=plastic-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Nikolaos_Zioulis)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-7898-9344)
 
+# I'm a Computer Vision and Machine Learning Engineer
 I am currently associated with the [Visual Computing Lab](https://github.com/VCL3D) at CERTH-ITI.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
