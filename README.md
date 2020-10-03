@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Cuda-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Boost-informational?style=flat&logo=boost&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=cevo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-XAML-informational?style=flat&logo=xaml&logoColor=white&color=2bbc8a)
