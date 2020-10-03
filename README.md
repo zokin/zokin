@@ -1,11 +1,9 @@
-### Hi ! I'm Nick :) 
+### Hi ! I'm Nick :) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
 
 [![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nikolaos-zioulis?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolaos-zioulis/)](https://www.linkedin.com/in/nikolaos-zioulis/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&layout=compact)](https://github.com/zokin)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
 
 Some projects I've been working on:
 
