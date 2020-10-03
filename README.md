@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-nzioulis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com)](mailto:nzioulis@gmail.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&layout=compact&theme=cobalt&langs_count=2)](https://github.com/zokin)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&layout=compact&theme=tokyonight&langs_count=2)](https://github.com/zokin)
 
 Some projects I've been working on:
 
