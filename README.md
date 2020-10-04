@@ -1,4 +1,5 @@
 ### Hello, I'm Nick ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
+![ZN](https://eu.ui-avatars.com/api/?name=Zioulis+Nikolaos&size=24&font-size=0.5&rounded=true&background=30446B&color=BBD6FA)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com&color=D14836)](mailto:nzioulis@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/zokin)
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=f7hypjsAAAAJ)
@@ -8,7 +9,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zokin&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zokin&theme=tokyonight&langs_count=2)](https://github.com/zokin)
 
-# I'm a Computer Vision and Machine Learning Engineer
+# I'm a Computer Vision and Machine Learning Engineer 
 I am currently associated with the [Visual Computing Lab](https://github.com/VCL3D) at CERTH-ITI.
 
 ## My toolset:
