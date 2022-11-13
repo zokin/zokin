@@ -1,4 +1,4 @@
-### Hello, I'm Nick ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)
+### Hello, I'm Nick ! <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=zokin)-->
 ![ZN](https://eu.ui-avatars.com/api/?name=Zioulis+Nikolaos&size=24&font-size=0.5&rounded=true&background=30446B&color=BBD6FA)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:nzioulis@gmail.com&color=D14836)](mailto:nzioulis@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/zokin)
