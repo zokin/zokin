@@ -45,6 +45,9 @@
 ## Some projects I've been working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ai-in-motion&repo=moai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://www.github.com/ai-in-motion/moai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=Pano3D&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/Pano3D/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=HybridSkip&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/HybridSkip/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=SingleShotCuboids&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/SingleShotCuboids/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=VolumetricCapture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/VolumetricCapture/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexd314&repo=nevergrad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://alexd314.github.io/nevergrad/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VCL3D&repo=DeepDepthDenoising&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://vcl3d.github.io/DeepDepthDenoising/)
